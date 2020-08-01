@@ -78,21 +78,23 @@
       "titulo": "Filmes",
       "cor": "#ee2a10",
       "videos": [
-        {
+          {
+            
+
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Vingadores: Ultimato | Trailer ",
+          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
         },
         {
           "titulo": "A Chegada",
           "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Guardiões da Galáxia Vol 2 - Trailer",
+          "url": "https://www.youtube.com/watch?v=4-i8nTNSQFI"
         }
       ]
     },
@@ -100,7 +102,7 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Jogos lançamentos",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -113,16 +115,16 @@
           "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "DUELISTAS // Trailer oficial de lançamento – VALORANT",
+          "url": "youtube.com/watch?v=e_E9W2vsRbQ"
         },
         {
           "titulo": "Resident Evil 8",
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "RESIDENT EVIL 3 REMAKE Trailer (2020)",
+          "url": "https://www.youtube.com/watch?v=EyCZP1wDxEM"
         }
       ]
     }
