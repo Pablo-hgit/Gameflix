@@ -29,6 +29,7 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
+    // eslint-disable-next-line no-console
     console.log('iaeeeee');
     const URL = 'http://localhost:8080/categorias';
     fetch(URL)
