@@ -31,7 +31,7 @@ function CadastroCategoria() {
   useEffect(() => {
     // eslint-disable-next-line no-console
     console.log('iaeeeee');
-    const URL = 'http://localhost:8080/categorias';
+    const URL = 'http://gamefl1x.herokuapp.com/categorias';
     fetch(URL)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
