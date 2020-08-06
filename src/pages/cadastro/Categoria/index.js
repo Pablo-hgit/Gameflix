@@ -30,8 +30,9 @@ function CadastroCategoria() {
 
   useEffect(() => {
     // eslint-disable-next-line no-console
-    console.log('iaeeeee');
-    const URL = 'http://gamefl1x.herokuapp.com/categorias';
+    const URL = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias'
+      : 'https://gamefl1x.herokuapp.com/categorias';
     fetch(URL)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
@@ -88,10 +89,11 @@ function CadastroCategoria() {
         </Button>
       </form>
 
+      {categorias.length === 0 && (
       <div>
         carregando...
       </div>
-
+      )}
       <ul>
         {categorias.map((categoria) => (
           <li key={`${categoria.nome}`}>
