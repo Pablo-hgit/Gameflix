@@ -24,7 +24,7 @@
   "videos": [
     {
       "id": 1,
-      "categoriaId": 4,
+      "categoriaId": 1,
       "titulo": "The Last Of Us Part II",
       "url": "https://www.youtube.com/watch?v=ru5IU8bGx3A"
     },
@@ -154,44 +154,9 @@
       "titulo": "RESIDENT EVIL 3 REMAKE Trailer (2020)",
       "url": "https://www.youtube.com/watch?v=EyCZP1wDxEM"
     },
+    
     {
-      "titulo": "video padrão",
-      "url": "https://yadi.sk/d/_bHLmCj-AbR6fw",
-      "categoriaId": 1,
-      "id": 23
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=4-_OmWJ68Cg",
-      "categoriaId": 1,
-      "id": 24
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=4-_OmWJ68Cg",
-      "categoriaId": 1,
-      "id": 25
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=4-_OmWJ68Cg",
-      "categoriaId": 1,
-      "id": 26
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=4-_OmWJ68Cg",
-      "categoriaId": 1,
-      "id": 27
-    },
-    {
-      "titulo": "video padrão",
-      "url": "https://www.youtube.com/watch?v=4-_OmWJ68Cg",
-      "categoriaId": 1,
-      "id": 28
-    },
-    {
-      "titulo": "video padrão",
+      "titulo": "On may way - Axwell & Ingrosso",
       "url": "https://www.youtube.com/watch?v=opxhEVjNvdk",
       "categoriaId": 2,
       "id": 29
