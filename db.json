@@ -1,17 +1,200 @@
 {
-    "categorias": [
-      {
-        "id": 1,
-        "nome":"Front End",
-        "descricao": "uma categoria",
-        "cor": "#cbd1ff" 
-      },
-
-   {  
-        "id": 2,
-        "nome":"Back End",
-        "descricao": "outra categoria",
-        "cor": "#cbd1ff" 
-      }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Gameplay",
+      "cor": "red"
+    },
+    {
+      "id": 2,
+      "titulo": "Músicas",
+      "cor": "red"
+    },
+    {
+      "id": 3,
+      "titulo": "Filmes",
+      "cor": "red"
+    },
+    {
+      "id": 4,
+      "titulo": "Games",
+      "cor": "red"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 4,
+      "titulo": "The Last Of Us Part II",
+      "url": "https://www.youtube.com/watch?v=ru5IU8bGx3A"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "O ALANZOKA E A PAULA NÃO ACREDITARAM NISSO!! - VALORANT",
+      "url": "https://www.youtube.com/watch?v=l1bq31idBCw"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "A MELHOR ARMA DO WARZONE? GALIL OVERPOWER!  CALL OF DUTY: WARZONE",
+      "url": "https://www.youtube.com/watch?v=fYjBWzIM8KI"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "A NOVA MELHOR ARMA DO WARZONE (M4 DARK 0 RECOIL)",
+      "url": "https://www.youtube.com/watch?v=N-rDPWEwGSA"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "A SORTE ME LARGOU NO CAMPEONATO | Fortnite (ft. SettiOP)",
+      "url": "https://www.youtube.com/watch?v=BGSC9E5brsQ"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "NOVOS CARROS NO FORTNITE? ATUALIZAÇÃO!!",
+      "url": "https://www.youtube.com/watch?v=OnWe-nQbdxY"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "ELE SÓ QUERIA VOAR!",
+      "url": "https://www.youtube.com/watch?v=9b0DHbIJXOM"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "FALL GUYS - Jogo MUITO Divertido! Gameplay da Beta",
+      "url": "https://www.youtube.com/watch?v=rQeprbw3lZE"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Marshmello x SVDDEN DEATH - Crusade (Official Music Video)",
+      "url": "https://www.youtube.com/watch?v=hclYqAoLgoE"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Oliver Heldens & Shaun Frank - Shades Of Grey (Ft. Delaney Jane) [Official Music Video]",
+      "url": "https://www.youtube.com/watch?v=NoDc0RC02CQ"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Skrillex & Diplo - Mind feat. Kai (Official Video)",
+      "url": "https://www.youtube.com/watch?v=fDrTbLXHKu8"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Avicii - You Make Me (Official)",
+      "url": "https://www.youtube.com/watch?v=2GADx4Hy-Gg"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "David Guetta & Showtek - Bad ft.Vassy (Lyrics Video)",
+      "url": "https://www.youtube.com/watch?v=oC-GflRB0y4"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Interestellar",
+      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Vingadores: Ultimato | Trailer",
+      "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "A Chegada",
+      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Guardiões da Galáxia Vol 2 - Trailer",
+      "url": "https://www.youtube.com/watch?v=4-i8nTNSQFI"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "Final Fantasy 7",
+      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Assassins Creed Valhalla",
+      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "DUELISTAS // Trailer oficial de lançamento – VALORANT",
+      "url": "youtube.com/watch?v=e_E9W2vsRbQ"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Resident Evil 8",
+      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "RESIDENT EVIL 3 REMAKE Trailer (2020)",
+      "url": "https://www.youtube.com/watch?v=EyCZP1wDxEM"
+    },
+    {
+      "titulo": "video padrão",
+      "url": "https://yadi.sk/d/_bHLmCj-AbR6fw",
+      "categoriaId": 1,
+      "id": 23
+    },
+    {
+      "titulo": "video padrão",
+      "url": "https://www.youtube.com/watch?v=4-_OmWJ68Cg",
+      "categoriaId": 1,
+      "id": 24
+    },
+    {
+      "titulo": "video padrão",
+      "url": "https://www.youtube.com/watch?v=4-_OmWJ68Cg",
+      "categoriaId": 1,
+      "id": 25
+    },
+    {
+      "titulo": "video padrão",
+      "url": "https://www.youtube.com/watch?v=4-_OmWJ68Cg",
+      "categoriaId": 1,
+      "id": 26
+    },
+    {
+      "titulo": "video padrão",
+      "url": "https://www.youtube.com/watch?v=4-_OmWJ68Cg",
+      "categoriaId": 1,
+      "id": 27
+    },
+    {
+      "titulo": "video padrão",
+      "url": "https://www.youtube.com/watch?v=4-_OmWJ68Cg",
+      "categoriaId": 1,
+      "id": 28
+    },
+    {
+      "titulo": "video padrão",
+      "url": "https://www.youtube.com/watch?v=opxhEVjNvdk",
+      "categoriaId": 2,
+      "id": 29
+    }
+  ]
 }
