@@ -60,8 +60,8 @@ function FormField({
   const isTypeTextarea = type === 'textarea';
   const tag = isTypeTextarea ? 'textarea' : 'input';
 
-  const hasValue = Boolean(value.lenght);
-  const hasSuggetions = Boolean(suggestions.lenght);
+  const hasValue = Boolean(value.length);
+  const hasSuggetions = Boolean(suggestions.length);
   return (
     <FormFieldWrapper>
       <Label
